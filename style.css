@@ -172,7 +172,7 @@ form legend {
 .enviar {
 	width: 40%;
 	padding: 15px 0;
-	background: orange;
+	background: black;
 	color: white;
 	font-weight: bold;
 	font-size: 18px;
@@ -183,7 +183,7 @@ form legend {
 }
 
 .enviar:hover {
-	background: darkorange;
+	background: gray;
 	transform: scale(1.2);
 }
 
