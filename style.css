@@ -1,3 +1,7 @@
+* {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 body {
 	font-family: 'Montserrat', sans-serif;
 }
@@ -6,6 +10,8 @@ body {
 	width: 100px;
 	height: 100px;
 	margin: 2px;
+	border-radius: 10px 20px;
+
 }
 
 header {
@@ -28,6 +34,8 @@ header {
 	position: relative;
 	width: 940px;
 	margin: 0 auto;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
 nav {
@@ -62,6 +70,7 @@ nav a:hover {
 	text-align: center;
 	font-size: 2em;
 	margin: 0 0 1em;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .produtos {
@@ -194,6 +203,9 @@ th {
 	padding: 8px 15px;
 }
 
+strong {
+	color: orange;
+}
 
 /* css da página inicial */
 .banner {
@@ -206,6 +218,8 @@ th {
 	margin: 0 0 1em;
 	clear: left;
 	background-color: white;
+	color: #022752;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .principal {
@@ -213,10 +227,13 @@ th {
 	width: 940px;
 	margin: 0 auto;
 	background-color: white;
+	border-radius: 10px 20px;
 }
 
 .principal p {
 	margin: 0 0 1em;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+
 }
 
 .principal strong {
