@@ -180,6 +180,7 @@ form legend {
 	border-radius: 5px;
 	transition: 1s all;
 	cursor: pointer;
+	text-decoration: none
 }
 
 .enviar:hover {
@@ -247,6 +248,12 @@ strong {
 .utensilios {
 	width: 120px;
 	float: left;
+	margin: 0 20px 20px 0;
+}
+
+.sucesso {
+	width: 120px;
+	align-content: center;
 	margin: 0 20px 20px 0;
 }
 
