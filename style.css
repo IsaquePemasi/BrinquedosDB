@@ -6,6 +6,11 @@ body {
 	font-family: 'Montserrat', sans-serif;
 }
 
+.table {
+	margin: 0 auto;
+	border-radius: 10px 20px;
+}
+
 .imagens img {
 	width: 100px;
 	height: 100px;
@@ -132,6 +137,8 @@ footer {
 
 main {}
 
+
+
 form {
 	margin: 40px 0;
 }
@@ -182,6 +189,7 @@ form legend {
 	cursor: pointer;
 	text-decoration: none
 }
+
 
 .enviar:hover {
 	background: gray;
