@@ -11,6 +11,10 @@ body {
 	border-radius: 10px 20px;
 }
 
+.white {
+	background-color: white;
+}
+
 .imagens img {
 	width: 100px;
 	height: 100px;
