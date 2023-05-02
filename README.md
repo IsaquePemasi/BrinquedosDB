@@ -13,3 +13,4 @@ Além disso, faça aplicação de estilos em elementos utilizando ID. Utilize di
 Busque uma interface agradável aos olhos do usuário.
 <br>
 Na elaboração das páginas, utilize as tags que possuem ênfase na melhora do SEO do site proposto.   
+<img src = "/img/Captura de tela 2023-05-02 203729.png">
