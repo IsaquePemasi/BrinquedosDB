@@ -14,3 +14,5 @@ Look for a user-friendly interface.
 <br>
 When creating pages, use tags that emphasize the improvement of the proposed site's SEO.  
 <img src = "/img/Captura de tela 2023-05-02 203729.png">
+<h2 align="center">Autor</h2>
+<a href="https://github.com/IsaquePemasi/"><img src="https://avatars.githubusercontent.com/u/76749511?v=4" width=115></a>
